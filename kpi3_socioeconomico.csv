@@ -1,0 +1,9 @@
+variable,ano,n,desercion_tercil_desfavorable,desercion_tercil_favorable,brecha_pp,rho,p_valor,lectura
+pobreza_monetaria,2021,24,2.98,4.13,-1.15,-0.259,0.222,sin asociación significativa
+pobreza_monetaria,2022,24,4.34,4.87,-0.53,-0.105,0.6246,sin asociación significativa
+pobreza_monetaria,2023,24,3.5,4.47,-0.98,-0.259,0.2215,sin asociación significativa
+pobreza_monetaria,2024,24,3.36,4.1,-0.74,-0.249,0.2413,sin asociación significativa
+porcentaje_analfabetismo_ecv,2021,33,4.64,3.47,1.16,0.11,0.5436,sin asociación significativa
+porcentaje_analfabetismo_ecv,2022,33,5.0,4.13,0.87,0.254,0.154,sin asociación significativa
+porcentaje_analfabetismo_ecv,2023,33,4.12,4.03,0.09,0.029,0.8709,sin asociación significativa
+porcentaje_analfabetismo_ecv,2024,33,3.82,3.87,-0.05,0.027,0.8826,sin asociación significativa

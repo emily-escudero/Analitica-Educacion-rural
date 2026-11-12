@@ -1,0 +1,9 @@
+variable,ano,n,desercion_tercil_desfavorable,desercion_tercil_favorable,brecha_pp,rho,p_valor,lectura
+cobertura_energia_electrica_rural,2021,33,4.29,3.66,0.63,-0.05,0.7803,sin asociación significativa
+cobertura_energia_electrica_rural,2022,33,5.0,4.77,0.23,-0.1,0.5806,sin asociación significativa
+cobertura_energia_electrica_rural,2023,33,4.12,4.1,0.03,0.063,0.729,sin asociación significativa
+cobertura_energia_electrica_rural,2024,33,4.34,3.87,0.47,-0.225,0.2089,sin asociación significativa
+cobertura_internet_rural_censo,2021,32,4.28,3.83,0.45,0.008,0.9666,sin asociación significativa
+cobertura_internet_rural_censo,2022,32,4.72,4.54,0.18,0.056,0.7597,sin asociación significativa
+cobertura_internet_rural_censo,2023,32,4.32,4.08,0.24,0.067,0.716,sin asociación significativa
+cobertura_internet_rural_censo,2024,32,4.16,3.72,0.44,-0.04,0.8297,sin asociación significativa
